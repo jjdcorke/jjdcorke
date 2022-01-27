@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jjdcorke (Jérémie Corkery)
-I'm a 3rd year mathematical physics undegraduate student at the University of Waterloo! I'm currently working on a computational physics library as
-a personal project with my friend. More information to follow soon. 
+I'm a 3rd year mathematical physics undegraduate student at the University of Waterloo! I'm extremely i terested in computational physics and Machine Learning applied in physics. Currently looking for a Co-Op for Spring 2022 school term (May-August). 
 
 Coding Experience
 =================
