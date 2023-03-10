@@ -12,6 +12,4 @@ Our final group project for this course was attempting to replicate results from
 
 Inrecently took a stellar astrophysics course where we used code for various applications including solving stellar structure equations. this code can be found under PHYS 375. 
 
-I also have a strong interest in real-time simulation applications (i.e. game engines) and am currently learning game engine architecture along with **C++** from the book *Game Engine Architecture by Jason Gregory*. This interest is split between real-time computer graphics and real-time physics simulation. I am doing so in my own time but my goal is to eventually develop an independent title as well as working more closely with game engines. 
-
-I also have a working knowledge of HTML/CSS, Swift and LISP as learned through code academy and other sources. 
+I also have a strong interest in real-time simulation applications (i.e. game engines) and am currently learning implement path tracing from peter shirley's resource along with and game engine architecture from the book *Game Engine Architecture by Jason Gregory*. I am using this as a way to learn C++ as a side project and I am just starting. This interest is split between real-time computer graphics and real-time physics simulation. I also have a working knowledge of HTML/CSS, Swift and LISP as learned through code academy and other sources. 
