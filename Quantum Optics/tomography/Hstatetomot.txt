@@ -1,5 +1,0 @@
-state measurements uncertainty
-H 2.276 0.0005
-V 0.00539 0.005
-D 1.19 0.0005
-R 1.094 0.0005

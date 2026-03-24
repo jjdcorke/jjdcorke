@@ -1,1 +1,0 @@
-Topic report examples for laboratory on control of quantum experiment (implemented in NRM). Data not provided so running the notebook might break outputs relying FID or spectral data. Final course grade achieved in this course was 80%. 
